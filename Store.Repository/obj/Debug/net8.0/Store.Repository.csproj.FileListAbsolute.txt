@@ -13,3 +13,4 @@ C:\Users\zeyad\source\repos\Store.Data\Store.Repository\obj\Debug\net8.0\Store.R
 C:\Users\zeyad\source\repos\Store.Data\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
 C:\Users\zeyad\source\repos\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
 C:\Users\zeyad\source\repos\Store.Data\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
+C:\Users\zeyad\source\repos\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.sourcelink.json

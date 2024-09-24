@@ -1,5 +1,91 @@
 [
   {
+    "ContainingType": "Store.Web.Controllers.ProductsController",
+    "Method": "GetAllBrands",
+    "RelativePath": "api/Products/GetAllBrands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Service.Services.ProductServices.Dtos.BrandTypeDetailsDto, Store.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.ProductsController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Products/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Service.Services.ProductServices.Dtos.ProductDetailsDto, Store.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.ProductsController",
+    "Method": "GetAllTypes",
+    "RelativePath": "api/Products/GetAllTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Service.Services.ProductServices.Dtos.BrandTypeDetailsDto, Store.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.ProductsController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Products/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Store.Service.Services.ProductServices.Dtos.ProductDetailsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Store.Web.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
