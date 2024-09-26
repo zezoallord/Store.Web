@@ -26,7 +26,13 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Store.Repository.Specefication.ProductSpecs.ProductSpecefication",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Service.Services.ProductServices.Dtos.ProductDetailsDto, Store.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",

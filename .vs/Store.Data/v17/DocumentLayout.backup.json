@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\productspecs\\productwithspecefications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\productspecs\\productwithspecefications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\productspecs\\productwithcountspecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\productspecs\\productwithcountspecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\productspecs\\productspecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\productspecs\\productspecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.service\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.service\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\basespecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\basespecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\ispecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\ispecefication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.repository\\specefication\\speceficationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2D5435-B69C-4064-B3A7-8D3DDAFD5175}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specefication\\speceficationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.service\\services\\productservices\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +59,8 @@
       "RelativeMoniker": "D:0:0:{99B20554-E6FE-4258-AA0A-695ACCD2D21E}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\productservices\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|c:\\users\\zeyad\\source\\repos\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E574C2-F12D-47F8-85EE-00FCC90F63C7}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +70,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\IProductService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:12:28.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductSpecefication.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductSpecefication.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\ProductSpecs\\ProductSpecefication.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductSpecefication.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\ProductSpecs\\ProductSpecefication.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:02:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWithSpecefications.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductWithSpecefications.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\ProductSpecs\\ProductWithSpecefications.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductWithSpecefications.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\ProductSpecs\\ProductWithSpecefications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:04:04.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWithCountSpecefication.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductWithCountSpecefication.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\ProductSpecs\\ProductWithCountSpecefication.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ProductSpecs\\ProductWithCountSpecefication.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\ProductSpecs\\ProductWithCountSpecefication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:52:44.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:12:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwDUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:08:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:52:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseSpecefication.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\BaseSpecefication.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\BaseSpecefication.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\BaseSpecefication.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\BaseSpecefication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:19:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginatedResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Helper\\PaginatedResultDto.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
+              "RelativeToolTip": "Store.Service\\Helper\\PaginatedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:06:10.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpecefication.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ISpecefication.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\ISpecefication.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\ISpecefication.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\ISpecefication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:14:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpeceficationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\SpeceficationEvaluator.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specefication\\SpeceficationEvaluator.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Repository\\Specefication\\SpeceficationEvaluator.cs",
+              "RelativeToolTip": "Store.Repository\\Specefication\\SpeceficationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:30:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:55:39.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductProfile.cs",
@@ -43,20 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductPictureUrlResolver.cs",
-              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
-              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
-              "RelativeToolTip": "Store.Service\\Services\\ProductServices\\Dtos\\ProductPictureUrlResolver.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:55:39.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Web\\Program.cs",
               "RelativeDocumentMoniker": "Store.Web\\Program.cs",
@@ -64,21 +264,7 @@
               "RelativeToolTip": "Store.Web\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:37:57.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\zeyad\\source\\repos\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:36:31.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T13:37:57.005Z"
             }
           ]
         }
