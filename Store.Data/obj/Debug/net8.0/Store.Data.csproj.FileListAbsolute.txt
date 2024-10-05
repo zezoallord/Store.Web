@@ -6,6 +6,7 @@ C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.Ge
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.dll
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 C:\Users\zeyad\source\repos\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb

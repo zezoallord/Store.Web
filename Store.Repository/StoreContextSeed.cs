@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using Store.Data.Contexts;
 using Store.Data.Entites;
+using Store.Data.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,6 +37,7 @@ namespace Store.Repository
                         await context.ProductTypes.AddRangeAsync(types);
                     }
                 }
+
                 if (context.Products != null && !context.Products.Any())
                 {
                     var productsData = File.ReadAllText("../Store.Repository/SeedData/products.json");
@@ -45,6 +47,16 @@ namespace Store.Repository
                     {
                         await context.Products.AddRangeAsync(products);
                     }
+
+                  
+
+                }
+                if (context.DeliveryMethods != null && !context.DeliveryMethods.Any())
+                {
+                    var methodsData = File.ReadAllText("../Store.Repository/SeedData/delivery.json");
+                    var methods = JsonSerializer.Deserialize<List<DeliveryMethod>>(methodsData);
+                    if (methods is not null)
+                        await context.DeliveryMethods.AddRangeAsync(methods);
                 }
 
                 await context.SaveChangesAsync();

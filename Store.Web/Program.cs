@@ -7,6 +7,7 @@ using Store.Repository.Interfaces;
 using Store.Repository.Repositories;
 using Store.Service.Services.ProductServices;
 using Store.Service.Services.ProductServices.Dtos;
+using Store.Web.Extensions;
 using Store.Web.Extenstions;
 using Store.Web.Helper;
 using Store.Web.MiddelWares;
@@ -26,15 +27,19 @@ namespace Store.Web
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
+            builder.Services.AddDbContext<StoreIdentityDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+            });
             builder.Services.AddSingleton<IConnectionMultiplexer>(config =>
             {
                 var configuration = ConfigurationOptions.Parse(builder.Configuration.GetConnectionString("Redis"));
                 return ConnectionMultiplexer.Connect(configuration);
             });
+
             builder.Services.AddApplicationServices();
 
-
-
+            builder.Services.AddIdentityServices();
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
