@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "Store.Web.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Store.Service.Services.UserService.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Store.Service.Services.UserService.Dtos.UserDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Store.Web.Controllers.BasketController",
     "Method": "DeleteBasketAsync",
     "RelativePath": "api/Basket/DeleteBasket/{id}",
