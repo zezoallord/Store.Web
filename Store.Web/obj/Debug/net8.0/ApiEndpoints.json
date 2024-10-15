@@ -150,6 +150,134 @@
     ]
   },
   {
+    "ContainingType": "Store.Web.Controllers.OrderController",
+    "Method": "CreateOrderAsync",
+    "RelativePath": "api/Order/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Store.Service.Services.OrderService.Dtos.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Store.Service.Services.OrderService.Dtos.OrderDetailsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.OrderController",
+    "Method": "GetAllDeliveryMethodsAsync",
+    "RelativePath": "api/Order/GetAllDeliveryMethods",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Data.Entities.DeliveryMethod, Store.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.OrderController",
+    "Method": "GetAllOrdersForUserAsync",
+    "RelativePath": "api/Order/GetAllOrdersForUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[Store.Service.Services.OrderService.Dtos.OrderDetailsDto, Store.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.OrderController",
+    "Method": "GetOrderByIdAsync",
+    "RelativePath": "api/Order/GetOrderById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Store.Service.Services.OrderService.Dtos.OrderDetailsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.PaymentController",
+    "Method": "CreateOrUpdatePaymentIntent",
+    "RelativePath": "api/Payment/CreateOrUpdatePaymentIntent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Store.Service.Services.BasketService.Dtos.CustomerBasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Store.Service.Services.BasketService.Dtos.CustomerBasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Store.Web.Controllers.PaymentController",
+    "Method": "Webhook",
+    "RelativePath": "api/Payment/Webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Store.Web.Controllers.ProductsController",
     "Method": "GetAllBrands",
     "RelativePath": "api/Products/GetAllBrands",
